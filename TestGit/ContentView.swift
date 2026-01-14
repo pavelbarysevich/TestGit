@@ -53,7 +53,7 @@ struct ContentView: View {
             Button {
                 
             } label: {
-                Text("Subscribe")
+                Text("Subscribe now!")
             }
 
         }
