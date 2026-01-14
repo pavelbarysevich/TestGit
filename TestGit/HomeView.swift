@@ -6,6 +6,9 @@ struct HomeView:View {
             Text("Screen 2")
             Text("Screen 2")
             Text("Screen 2")
+            Image(systemName: "graph.3d")
+                .resizable()
+                .frame(width: 200, height: 200)
         }
     }
 }
