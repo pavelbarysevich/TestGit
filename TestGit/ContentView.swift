@@ -8,27 +8,27 @@
 /*
  COMMIT MESSAGES
  NEW FEATURE:
- [Featurel Description of the feature
+ [Feature] Description of the feature
+ BUG NOT IN PRODUCTION:
+ [Bug) Description of the bug
+ RELEASE:
+ [Releasel Description of release
  BUG IN PRODUCTION:
- [Patch] Description of patch
- BUG NOT IN PRODUCTLON:
- [Bug] Description of the bug
+ Description of patch
  MUNDANE TASKS:
  [Clean] Description of changes
- RELEASE:
- [Release] Description of release
  
  КОММИТИРОВАТЬ СООБЩЕНИЯ
   НОВАЯ ФУНКЦИЯ:
-  [Функция Описание функции
+  [Функция] Описание функции
+  ОШИБКА НЕ В ПРОИЗВОДСТВЕ:
+  [Ошибка) Описание ошибки
+  РЕЛИЗ:
+  [Выпуск Описание выпуска
   ОШИБКА В ПРОИЗВОДСТВЕ:
-  [Патч] Описание патча
-  ОШИБКА НЕ В ПРОДУКТЕ:
-  [Ошибка] Описание ошибки
+  Описание патча
   ОБЫЧНЫЕ ЗАДАЧИ:
   [Очистить] Описание изменений
-  РЕЛИЗ:
-  [Релиз] Описание релиза
  */
 
 import SwiftUI
