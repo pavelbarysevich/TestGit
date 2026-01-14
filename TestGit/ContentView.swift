@@ -48,7 +48,7 @@ struct ContentView: View {
             } label: {
                 Text("Click me!")
             }
-            .background(.yellow)
+            .background(.red)
 
         }
         .padding()
