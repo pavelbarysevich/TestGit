@@ -49,6 +49,12 @@ struct ContentView: View {
                 Text("Click me!")
             }
             .background(.red)
+            
+            Button {
+                
+            } label: {
+                Text("Subscribe")
+            }
 
         }
         .padding()
