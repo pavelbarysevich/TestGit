@@ -21,6 +21,7 @@ struct ContentView: View {
             } label: {
                 Text("Click me!")
             }
+            .background(.quinary)
 
         }
         .padding()
