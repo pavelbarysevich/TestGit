@@ -6,6 +6,7 @@ struct HomeView:View {
     
     var body: some View {
         VStack{
+            Text("Cохранить")
             Text("Screen 2")
             Text("Screen 2")
             Text("Screen 2")

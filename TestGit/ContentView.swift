@@ -55,6 +55,11 @@ struct ContentView: View {
             } label: {
                 Text("Subscribe now!")
             }
+            Button {
+                
+            } label: {
+                Text("Банк")
+            }
 
         }
         .padding()
