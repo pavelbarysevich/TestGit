@@ -17,6 +17,8 @@
  Description of patch
  MUNDANE TASKS:
  [Clean] Description of changes
+ Push - отправка на удаленный репозиторий
+ Pull - получение локальный коммитов репозиторий
  
  КОММИТИРОВАТЬ СООБЩЕНИЯ
   НОВАЯ ФУНКЦИЯ:
