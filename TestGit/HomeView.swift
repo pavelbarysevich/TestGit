@@ -14,6 +14,9 @@ struct HomeView:View {
                 .resizable()
                 .frame(width: 200, height: 200)
         }
+        .onAppear {
+            //send analytics
+        }
     }
 }
 
