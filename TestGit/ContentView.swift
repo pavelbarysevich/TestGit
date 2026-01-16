@@ -48,7 +48,7 @@ struct ContentView: View {
             Button {
                 
             } label: {
-                Text("Click me!")
+                Text("Click me VIP!")
             }
             .background(.red)
             
