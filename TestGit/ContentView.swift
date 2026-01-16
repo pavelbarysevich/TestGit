@@ -62,6 +62,7 @@ struct ContentView: View {
             } label: {
                 Text("Банк")
             }
+            Rectangle()
 
         }
         .padding()
