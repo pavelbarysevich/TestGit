@@ -38,32 +38,14 @@ import SwiftUI
 struct ContentView: View {
     var body: some View {
         VStack {
-            Image(systemName: "house .fill")
-                .font(.largeTitle)
-                .imageScale(.large)
-                .foregroundStyle(.tint)
-            Text("Hello, world! #")
-            Text("Hello, world! $")
-            
-            Button {
-                
-            } label: {
-                Text("Click me VIP!")
+            ScrollView {
+                VStack {
+                    ForEach(0..<20) { _ in
+                        Text("YO!")
+                    }
+                }
             }
-            .background(.red)
-            
-            Button {
-                
-            } label: {
-                Text("Subscribe now")
-            }
-            Button {
-                
-            } label: {
-                Text("Банк")
-            }
-            Rectangle()
-
+             
         }
         .padding()
     }
