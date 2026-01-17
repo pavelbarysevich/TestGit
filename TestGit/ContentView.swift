@@ -38,17 +38,16 @@ import SwiftUI
 struct ContentView: View {
     var body: some View {
         VStack {
-            Image(systemName: "house .fill")
+            Image(systemName: "globe")
                 .font(.largeTitle)
                 .imageScale(.large)
                 .foregroundStyle(.tint)
             Text("Hello, world! #")
-            Text("Hello, world! $")
             
             Button {
                 
             } label: {
-                Text("Click me VIP!")
+                Text("Click me")
             }
             .background(.red)
             
@@ -57,12 +56,6 @@ struct ContentView: View {
             } label: {
                 Text("Subscribe now")
             }
-            Button {
-                
-            } label: {
-                Text("Банк")
-            }
-            Rectangle()
 
         }
         .padding()
