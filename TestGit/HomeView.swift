@@ -6,7 +6,7 @@ struct HomeView:View {
     
     var body: some View {
         VStack{
-            Text("Cохранить")
+            Text("Cохранить меня")
             Text("Screen 1")
             Text("Screen 2")
             Image(systemName: "graph.3d")
