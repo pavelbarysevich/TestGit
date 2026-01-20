@@ -7,9 +7,10 @@ struct HomeView:View {
     var body: some View {
         VStack{
             Text("Cохранить меня!")
-            Text("Screen 1")
             Text("Screen 2")
+            Text("Screen 5")
             Text("Screen 3")
+            Text("Screen 4")
             Image(systemName: "graph.3d")
                 .resizable()
                 .frame(width: 200, height: 200)
