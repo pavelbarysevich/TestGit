@@ -65,10 +65,11 @@ struct ContentView: View {
                 VStack {
                     ForEach(0..<6) { _ in
                         Image(systemName: "globe")
+                            .foregroundStyle(.yellow)
                             .font(.largeTitle)
                             .imageScale(.large)
                             .foregroundStyle(.tint)
-                        Text("Hello, world!")
+                        Text("Hello, world, now!")
                     }
                 }
             }
