@@ -69,7 +69,7 @@ struct ContentView: View {
                             .font(.largeTitle)
                             .imageScale(.large)
                             .foregroundStyle(.tint)
-                        Text("Hello, world, now!!")
+                        Text("Hello, world, now!")
                     }
                 }
             }
