@@ -1,0 +1,50 @@
+### --- Xcode ---
+# Пользовательские настройки (порядок вкладок, открытые файлы и т.д.)
+userdata/
+xcuserdata/
+*.xcuserdatad
+
+# Сборка и временные файлы
+DerivedData/
+build/
+*.moved-aside
+*.xcuserstate
+
+# Тесты и логи
+*.log
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+!default.mode1v3
+!default.mode2v3
+!default.perspectivev3
+
+### --- Swift Package Manager (SPM) ---
+# Игнорируем папку сборки SPM и кэш
+.build/
+.swiftpm/xcode/xcuserdata
+
+### --- CocoaPods (если используете) ---
+# Рекомендуется не игнорировать Pods/, чтобы проект собирался сразу после клонирования,
+# но многие команды предпочитают игнорировать для чистоты репо.
+# Pods/
+
+### --- macOS ---
+# Системные файлы Finder и иконки
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+
+
+### --- Fastlane (если используете) ---
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots
+fastlane/test_output
+
+### --- Безопасность ---
+# Никогда не коммитьте файлы с ключами и секретами
+.env
+.env.*
+secret-config.plist
