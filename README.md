@@ -2,7 +2,6 @@
 
 [![Swift 6.0](Screenshots/Swift-Logo.png)](https://swift.org)
 [![Xcode 17.0](Screenshots/Swift-Logo.png)](https://developer.apple.com)
-[![Platform](Screenshots/Swift-Logo.png)](https://apple.com)
 
 Краткое и емкое описание вашего приложения или библиотеки. Зачем это нужно? Какую проблему решает? (Например: *«Мощный трекер привычек с использованием Swift Data и современных анимаций SwiftUI»*).
 
