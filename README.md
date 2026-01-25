@@ -1,10 +1,8 @@
 # 🚀 Название вашего проекта
 
-![Описание](https://www.google.com/url?sa=i&source=web&rct=j&url=https://1000logos.net/swift-logo/&ved=2ahUKEwj79cGG4qaSAxV3cfEDHRFtAU8Q9JEQegYIAQgDEAg&opi=89978449&cd&psig=AOvVaw0ujoAmWGYR79Y-g9MAg3qz&ust=1769433087927000)
-
-[![Swift 6.0](https://img.shields.io)](https://swift.org)
-[![Xcode 17.0](https://img.shields.io)](https://developer.apple.com)
-[![Platform](https://img.shields.io)](https://apple.com)
+[![Swift 6.0](Screenshots/Swift-Logo.png)](https://swift.org)
+[![Xcode 17.0](Screenshots/Swift-Logo.png)](https://developer.apple.com)
+[![Platform](Screenshots/Swift-Logo.png)](https://apple.com)
 
 Краткое и емкое описание вашего приложения или библиотеки. Зачем это нужно? Какую проблему решает? (Например: *«Мощный трекер привычек с использованием Swift Data и современных анимаций SwiftUI»*).
 
