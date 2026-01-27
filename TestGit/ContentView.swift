@@ -11,6 +11,11 @@
  Pull Requet(PR) = Запрос на маргинализацию ветки
  PR Merge = Объединить все коммиты
  PR Squash and Merge = Сжать все коммиты в ОДИН, а затем объединить ОДИН коммит.
+ Protecting Branches = Защита ветвей
+ CODEOWNERS = ВЛАДЕЛЬЦЫ КОДА
+ GitIgnore = Git Ignore
+ ReadMe = Прочтите меня
+ Release, Tag, Versioning = Релиз, тег, управление версиями
  
  
  Основные правила оформления:
