@@ -6,6 +6,9 @@ struct ProfileView: View {
     
     var body: some View {
         Text("Pavel")
+            .onAppear() {
+                
+            }
     }
 }
 
